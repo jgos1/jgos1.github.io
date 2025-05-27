@@ -56,30 +56,30 @@
                     <h1
                       class="text-white text-4xl font-black leading-tight tracking-[-0.033em] @[480px]:text-5xl @[480px]:font-black @[480px]:leading-tight @[480px]:tracking-[-0.033em]"
                     >
-                      Master the Art of Elite English
+                      Aprenda a arte do Inglês de ELITE!
                     </h1>
                     <h2 class="text-white text-sm font-normal leading-normal @[480px]:text-base @[480px]:font-normal @[480px]:leading-normal">
-                      Join our exclusive, once-a-year English class and learn the secrets of advanced language proficiency from a renowned instructor.
+                      Junte-se à nossas aulas exclusivas e aprenda os segredos para atingir a proficiência em QUALQUER língua com um instrutor RENOMADO ACADEMICAMENTE.
                     </h2>
                   </div>
                   <button
                     class="flex min-w-[84px] max-w-[480px] cursor-pointer items-center justify-center overflow-hidden rounded-lg h-10 px-4 @[480px]:h-12 @[480px]:px-5 bg-[#cd1b18] text-[#fcf8f8] text-sm font-bold leading-normal tracking-[0.015em] @[480px]:text-base @[480px]:font-bold @[480px]:leading-normal @[480px]:tracking-[0.015em]"
                   >
-                    <span class="truncate">Book Your Spot</span>
+                    <span class="truncate">Reservar minha vaga AGORA</span>
                   </button>
                 </div>
               </div>
             </div>
-            <h2 class="text-[#1b0e0e] text-[22px] font-bold leading-tight tracking-[-0.015em] px-4 pb-3 pt-5">What You'll Learn</h2>
+            <h2 class="text-[#1b0e0e] text-[22px] font-bold leading-tight tracking-[-0.015em] px-4 pb-3 pt-5">O que você aprenderá</h2>
             <div class="flex flex-col gap-10 px-4 py-10 @container">
               <div class="flex flex-col gap-4">
                 <h1
                   class="text-[#1b0e0e] tracking-light text-[32px] font-bold leading-tight @[480px]:text-4xl @[480px]:font-black @[480px]:leading-tight @[480px]:tracking-[-0.033em] max-w-[720px]"
                 >
-                  Become an English Maestro
+                  Torne-se um falante DE ELITE
                 </h1>
                 <p class="text-[#1b0e0e] text-base font-normal leading-normal max-w-[720px]">
-                  Our comprehensive course covers every aspect of advanced English proficiency, from grammar mastery to effective communication techniques.
+                  Nossa abordagem compreensiva e inovadora abrange todos os aspectos da proficiência avançada em inglês, desde o domínio do básico (A1) até técnicas avançadas de comunicação eficazes.
                 </p>
               </div>
               <div class="grid grid-cols-[repeat(auto-fit,minmax(158px,1fr))] gap-3 p-0">
@@ -92,9 +92,9 @@
                     </svg>
                   </div>
                   <div class="flex flex-col gap-1">
-                    <h2 class="text-[#1b0e0e] text-base font-bold leading-tight">Grammar Mastery</h2>
+                    <h2 class="text-[#1b0e0e] text-base font-bold leading-tight">Masterize o básico rapidamente</h2>
                     <p class="text-[#974f4e] text-sm font-normal leading-normal">
-                      Learn the art of mastering complex grammar rules, achieving the ideal balance of precision and fluency.
+                      Aprenda a arte de dominar assuntos complexos e de maneira rápida com base nos estudos mais recentes da ciência do aprendizado.
                     </p>
                   </div>
                 </div>
@@ -107,9 +107,9 @@
                     </svg>
                   </div>
                   <div class="flex flex-col gap-1">
-                    <h2 class="text-[#1b0e0e] text-base font-bold leading-tight">Communication Perfection</h2>
+                    <h2 class="text-[#1b0e0e] text-base font-bold leading-tight">Comunicação afiada</h2>
                     <p class="text-[#974f4e] text-sm font-normal leading-normal">
-                      Master the techniques of effective communication, ensuring clear and impactful expression in any context.
+                      Aprenda as técnicas de comunicação eficientes, mesmo em língua estrangeira, e garanta aquele "awe" enquanto fala com NATIVOS com CONFIANÇA.
                     </p>
                   </div>
                 </div>
@@ -122,22 +122,19 @@
                     </svg>
                   </div>
                   <div class="flex flex-col gap-1">
-                    <h2 class="text-[#1b0e0e] text-base font-bold leading-tight">Vocabulary Enrichment</h2>
+                    <h2 class="text-[#1b0e0e] text-base font-bold leading-tight">Absorva vocabulário</h2>
                     <p class="text-[#974f4e] text-sm font-normal leading-normal">
-                      Discover the secrets of enriching your vocabulary, from sophisticated word choices to nuanced expressions.
+                      Vire uma esponja de aprendizado de palavras e garanta o vocabulário de milhões com os GRINGOS.
                     </p>
                   </div>
                 </div>
               </div>
             </div>
-            <h2 class="text-[#1b0e0e] text-[22px] font-bold leading-tight tracking-[-0.015em] px-4 pb-3 pt-5">The History of Elite English</h2>
+            <h2 class="text-[#1b0e0e] text-[22px] font-bold leading-tight tracking-[-0.015em] px-4 pb-3 pt-5">A História do Inglês de Elite</h2>
             <p class="text-[#1b0e0e] text-base font-normal leading-normal pb-3 pt-1 px-4">
-              Elite English, a hallmark of linguistic excellence, has a storied tradition rooted in centuries of literary and academic achievement. Originating from the
-              formalization of the English language, it has evolved into a global standard for professional and academic communication. Its defining characteristics include precise
-              grammar, sophisticated vocabulary, and effective rhetorical skills. Today, Elite English is essential for success in international business, academia, and diplomacy,
-              representing the pinnacle of linguistic proficiency.
+              O Inglês de Elite, marca registrada da excelência linguística, possui uma tradição histórica enraizada em séculos de conquistas literárias e acadêmicas. Originário da formalização da língua inglesa, ele evoluiu para um padrão global de comunicação profissional e acadêmica. Suas características definidoras incluem gramática precisa, vocabulário sofisticado e habilidades retóricas eficazes. Hoje, o Inglês de Elite é essencial para o sucesso em negócios internacionais, no meio acadêmico e na diplomacia, representando o ápice da proficiência linguística.
             </p>
-            <h2 class="text-[#1b0e0e] text-[22px] font-bold leading-tight tracking-[-0.015em] px-4 pb-3 pt-5">Testimonials</h2>
+            <h2 class="text-[#1b0e0e] text-[22px] font-bold leading-tight tracking-[-0.015em] px-4 pb-3 pt-5">Depoimentos</h2>
             <div class="flex flex-col gap-8 overflow-x-hidden bg-[#fcf8f8] p-4">
               <div class="flex flex-col gap-3 bg-[#fcf8f8]">
                 <div class="flex items-center gap-3">
@@ -146,8 +143,8 @@
                     style='background-image: url("https://lh3.googleusercontent.com/aida-public/AB6AXuCY73mhN-xVfDZLySqJPv9eT_I-1HD5by8OoIqMo7Mcqbn7BmJfv4AqfKTCw_V4G8KyLTtuHr0YMQ6be1E0C8HI8QM5uJFPvLLd6oXKcYxodgpT_LVdlvOAQNYWOKZDT8XmwakAq0xoGaxoDlH9kaEDK3pVXOxRRMaQ9SaWlgjAJn5vpe7ib1CvulSGqMe55AKoGxACtrK697NxocEaMOIsVe-V5GScQweTAcgXxe-d2kNbQeXSXF7b3lZyhmSXAc4VLllq7H8lzO73");'
                   ></div>
                   <div class="flex-1">
-                    <p class="text-[#1b0e0e] text-base font-medium leading-normal">Olivia Bennett</p>
-                    <p class="text-[#974f4e] text-sm font-normal leading-normal">June 15, 2023</p>
+                    <p class="text-[#1b0e0e] text-base font-medium leading-normal">Sarah Moura</p>
+                    <p class="text-[#974f4e] text-sm font-normal leading-normal">15 de junho, 2023</p>
                   </div>
                 </div>
                 <div class="flex gap-0.5">
@@ -188,8 +185,7 @@
                   </div>
                 </div>
                 <p class="text-[#1b0e0e] text-base font-normal leading-normal">
-                  This class was an absolute dream! I've always wanted to master advanced English, and this experience exceeded all my expectations. The instructor was incredibly
-                  knowledgeable and patient, and I left with the confidence to communicate effectively in any setting. Highly recommended!
+                  Foi simplesmente um sonho! Eu sempre quis dominar o inglês avançado e esta experiência superou todas as minhas expectativas, sem dúvidas! O Gustavo era incrivelmente inteligente e paciente,                       traz uma abordagem diferente das instituições tradicionais e isso me ajudou com a confiança necessária para me comunicar com eficácia em qualquer lugar. Recomendado Muito!
                 </p>
               </div>
               <div class="flex flex-col gap-3 bg-[#fcf8f8]">
@@ -199,8 +195,8 @@
                     style='background-image: url("https://lh3.googleusercontent.com/aida-public/AB6AXuAxyDpdyo9uztB4sNfwBbrYV8OIQcYnTfVmPOMXsDBYIARnW5PIt5Sy5E_Oubw5MuYgx35QvanoYhXoWRrtbQ4ti6fWCbP04AsICPS0hTaZuH51RixW3PpLqD4dzBalkRWT_Ry09TKxU92dDGEy25SEMX_sIjvlSRhtsWBOdtmzxOPD-KmmWiPdgYnRG3Rekd9vrObotLFiGhUJL15HsIy2EpySGilCnjNOr9qoR7hDtXeUcbttWsxWIuzKhHIHyKaUREEcUGDej4La");'
                   ></div>
                   <div class="flex-1">
-                    <p class="text-[#1b0e0e] text-base font-medium leading-normal">Ethan Carter</p>
-                    <p class="text-[#974f4e] text-sm font-normal leading-normal">July 22, 2023</p>
+                    <p class="text-[#1b0e0e] text-base font-medium leading-normal">Vicor Oliveira</p>
+                    <p class="text-[#974f4e] text-sm font-normal leading-normal">22 de maio, 2025</p>
                   </div>
                 </div>
                 <div class="flex gap-0.5">
@@ -309,7 +305,7 @@
                     Reserve Your Place Today
                   </h1>
                   <p class="text-[#1b0e0e] text-base font-normal leading-normal max-w-[720px">
-                    Don't miss this exclusive opportunity to learn from the best. Spaces are limited, so enroll now to secure your spot in our annual Elite English class.
+                    Não perca esta oportunidade exclusiva de aprender com os melhores. As vagas são limitadas, então inscreva-se agora para garantir sua vaga na nossa aula experimental gratuita do Elite English.
                   </p>
                 </div>
                 <div class="flex flex-1 justify-center">
@@ -317,7 +313,7 @@
                     <button
                       class="flex min-w-[84px] max-w-[480px] cursor-pointer items-center justify-center overflow-hidden rounded-lg h-10 px-4 @[480px]:h-12 @[480px]:px-5 bg-[#cd1b18] text-[#fcf8f8] text-sm font-bold leading-normal tracking-[0.015em] @[480px]:text-base @[480px]:font-bold @[480px]:leading-normal @[480px]:tracking-[0.015em] grow"
                     >
-                      <span class="truncate">Enroll Now</span>
+                      <span class="truncate">Matricule-se agora!</span>
                     </button>
                   </div>
                 </div>
@@ -329,9 +325,9 @@
           <div class="flex max-w-[960px] flex-1 flex-col">
             <footer class="flex flex-col gap-6 px-5 py-10 text-center @container">
               <div class="flex flex-wrap items-center justify-center gap-6 @[480px]:flex-row @[480px]:justify-around">
-                <a class="text-[#974f4e] text-base font-normal leading-normal min-w-40" href="#">Privacy Policy</a>
-                <a class="text-[#974f4e] text-base font-normal leading-normal min-w-40" href="#">Terms of Service</a>
-                <a class="text-[#974f4e] text-base font-normal leading-normal min-w-40" href="#">Contact Us</a>
+                <a class="text-[#974f4e] text-base font-normal leading-normal min-w-40" href="#">Plítica de Privacidade</a>
+                <a class="text-[#974f4e] text-base font-normal leading-normal min-w-40" href="#">Termos de Serviço</a>
+                <a class="text-[#974f4e] text-base font-normal leading-normal min-w-40" href="#">Entre em contato</a>
               </div>
               <div class="flex flex-wrap justify-center gap-4">
                 <a href="#">
@@ -353,7 +349,7 @@
                   </div>
                 </a>
               </div>
-              <p class="text-[#974f4e] text-base font-normal leading-normal">© 2024 Elite English. All rights reserved.</p>
+              <p class="text-[#974f4e] text-base font-normal leading-normal">© 2025 Elite English. Todos os direitos reservados.</p>
             </footer>
           </div>
         </footer>
