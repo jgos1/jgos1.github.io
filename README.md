@@ -40,7 +40,7 @@
             <button
               class="flex min-w-[84px] max-w-[480px] cursor-pointer items-center justify-center overflow-hidden rounded-lg h-10 px-4 bg-[#cd1b18] text-[#fcf8f8] text-sm font-bold leading-normal tracking-[0.015em]"
             >
-              <span class="truncate">Enroll Now</span>
+              <span class="truncate">Matricule-se agora!</span>
             </button>
           </div>
         </header>
@@ -59,7 +59,7 @@
                       Aprenda a arte do Inglês de ELITE!
                     </h1>
                     <h2 class="text-white text-sm font-normal leading-normal @[480px]:text-base @[480px]:font-normal @[480px]:leading-normal">
-                      Junte-se à nossas aulas exclusivas e aprenda os segredos para atingir a proficiência em QUALQUER língua com um instrutor RENOMADO ACADEMICAMENTE.
+                      Junte-se à nossas aulas exclusivas e aprenda os segredos para atingir a proficiência em qualquer língua com um instrutor renomado.
                     </h2>
                   </div>
                   <button
@@ -122,7 +122,7 @@
                     </svg>
                   </div>
                   <div class="flex flex-col gap-1">
-                    <h2 class="text-[#1b0e0e] text-base font-bold leading-tight">Absorva vocabulário</h2>
+                    <h2 class="text-[#1b0e0e] text-base font-bold leading-tight">Absorva vocabulário como uma esponja</h2>
                     <p class="text-[#974f4e] text-sm font-normal leading-normal">
                       Vire uma esponja de aprendizado de palavras e garanta o vocabulário de milhões com os GRINGOS.
                     </p>
@@ -237,9 +237,7 @@
                   </div>
                 </div>
                 <p class="text-[#1b0e0e] text-base font-normal leading-normal">
-                  An unforgettable linguistic journey! From the in-depth grammar lessons to the engaging communication exercises, every moment was a delight. The class size was
-                  perfect, allowing for personalized attention, and the skills I gained were simply invaluable. I can't wait to impress my colleagues and friends with my newfound
-                  proficiency.
+                  Uma jornada linguística inesquecível! Sem aquelas aulas chatas do verbo To Be e com um método de aprendizado envolvente, cada momento foi um especial. O tamanho da turma era perfeito, permitindo atenção personalizada e sem distrações, e as habilidades que adquiri foram simplesmente inestimáveis. Só me arrependo de não ter me inscrito antes.
                 </p>
               </div>
               <div class="flex flex-col gap-3 bg-[#fcf8f8]">
@@ -249,8 +247,8 @@
                     style='background-image: url("https://lh3.googleusercontent.com/aida-public/AB6AXuDjuS6bNzkN6X4t_zaaa83BXEFU65h87tI9Vko8GeiixwESR5Y6uJdsR6vsUkUGEQdLI8W6EkU10L2DFQE9no-IhP96iAGibNI-MGmc0sdDujI6LdvwtxOIvFoXt79E-02NR7ee95t5JtJMlv7ZT0j842JW5PfzWASrZI7an7QnbWE2rtfZCS2MF8vgkXox-cIfMLfJcFP6EnVR_3ThvzQwEJWYEtfzQeyVtPZ3XTNyGs6LuxAoXmkPG3HSGIN_bSgadAYqjb4yAyDQ");'
                   ></div>
                   <div class="flex-1">
-                    <p class="text-[#1b0e0e] text-base font-medium leading-normal">Sophia Davis</p>
-                    <p class="text-[#974f4e] text-sm font-normal leading-normal">August 5, 2023</p>
+                    <p class="text-[#1b0e0e] text-base font-medium leading-normal">Sophia Lira</p>
+                    <p class="text-[#974f4e] text-sm font-normal leading-normal">5 de março, 2025</p>
                   </div>
                 </div>
                 <div class="flex gap-0.5">
@@ -291,8 +289,7 @@
                   </div>
                 </div>
                 <p class="text-[#1b0e0e] text-base font-normal leading-normal">
-                  This class is a must for any English enthusiast! The instructor's passion for language is contagious, and his expertise is evident in every lesson. I learned so
-                  much about the nuances of English, and the communication techniques we practiced were the best I've ever experienced. A truly enriching and empowering experience!
+                  As aulas são para qualquer apaixonado por inglês, ou quaisquer idiomas! A paixão do instrutor por línguas é contagiante, e sua expertise fica evidente em cada aula. Aprendi muito sobre as nuances do inglês, e as técnicas de comunicação que praticamos foram as melhores que já experimentei. Uma experiência verdadeiramente enriquecedora e empoderadora! Bem diferente dos métodos que testei por anos.
                 </p>
               </div>
             </div>
@@ -302,7 +299,7 @@
                   <h1
                     class="text-[#1b0e0e] tracking-light text-[32px] font-bold leading-tight @[480px]:text-4xl @[480px]:font-black @[480px]:leading-tight @[480px]:tracking-[-0.033em] max-w-[720px]"
                   >
-                    Reserve Your Place Today
+                    Garanta o seu acesso hoje!
                   </h1>
                   <p class="text-[#1b0e0e] text-base font-normal leading-normal max-w-[720px">
                     Não perca esta oportunidade exclusiva de aprender com os melhores. As vagas são limitadas, então inscreva-se agora para garantir sua vaga na nossa aula experimental gratuita do Elite English.
